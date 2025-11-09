@@ -1,0 +1,10 @@
+AWS S3
+Amazon EBS
+Amazon EFS
+AWS Backup
+Amazon DynamoDB
+Amazon RDS
+Amazon DocumentDB
+Amazon Keyspaces
+Amazon Neptune
+Amazon Redshift
